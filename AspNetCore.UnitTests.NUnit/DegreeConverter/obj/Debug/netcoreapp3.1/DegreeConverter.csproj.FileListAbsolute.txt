@@ -1,0 +1,9 @@
+D:\GitPessoal\AspNetCore.UnitTests.NUnit\AspNetCore.UnitTests.NUnit\DegreeConverter\bin\Debug\netcoreapp3.1\DegreeConverter.deps.json
+D:\GitPessoal\AspNetCore.UnitTests.NUnit\AspNetCore.UnitTests.NUnit\DegreeConverter\bin\Debug\netcoreapp3.1\DegreeConverter.dll
+D:\GitPessoal\AspNetCore.UnitTests.NUnit\AspNetCore.UnitTests.NUnit\DegreeConverter\bin\Debug\netcoreapp3.1\DegreeConverter.pdb
+D:\GitPessoal\AspNetCore.UnitTests.NUnit\AspNetCore.UnitTests.NUnit\DegreeConverter\obj\Debug\netcoreapp3.1\DegreeConverter.csprojAssemblyReference.cache
+D:\GitPessoal\AspNetCore.UnitTests.NUnit\AspNetCore.UnitTests.NUnit\DegreeConverter\obj\Debug\netcoreapp3.1\DegreeConverter.AssemblyInfoInputs.cache
+D:\GitPessoal\AspNetCore.UnitTests.NUnit\AspNetCore.UnitTests.NUnit\DegreeConverter\obj\Debug\netcoreapp3.1\DegreeConverter.AssemblyInfo.cs
+D:\GitPessoal\AspNetCore.UnitTests.NUnit\AspNetCore.UnitTests.NUnit\DegreeConverter\obj\Debug\netcoreapp3.1\DegreeConverter.csproj.CoreCompileInputs.cache
+D:\GitPessoal\AspNetCore.UnitTests.NUnit\AspNetCore.UnitTests.NUnit\DegreeConverter\obj\Debug\netcoreapp3.1\DegreeConverter.dll
+D:\GitPessoal\AspNetCore.UnitTests.NUnit\AspNetCore.UnitTests.NUnit\DegreeConverter\obj\Debug\netcoreapp3.1\DegreeConverter.pdb
